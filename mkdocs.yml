@@ -1,0 +1,8 @@
+site_name: "tp-doc-test1"
+site_description: "this is a test doc"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
